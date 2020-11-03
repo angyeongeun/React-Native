@@ -1,2 +1,2 @@
 # React-Native
-reacte nactive practice for ios mobile app 
+react native practice to build ios mobile app 
