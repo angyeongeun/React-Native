@@ -6,6 +6,8 @@ import * as Location from "expo-location";
 export default function App() {
   return (
     <View style={styles.container}>
+      <View style={styles.yelloView}></View>
+      <View style={styles.blueView}></View>
       <Text>Hello buddy~</Text>
       <StatusBar style="auto" />
     </View>
@@ -14,6 +16,14 @@ export default function App() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 3
+    flex: 1
   },
+  yelloView: {
+    flex: 0.4,
+    backgroundColor: "yellow"
+  },
+  blueView: {
+    flex: 2,
+    backgroundColor: "blue"
+  }
 });
