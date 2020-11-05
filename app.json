@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ios-app-build-proj",
-    "slug": "ios-app-build-proj",
+    "name": "react-native based weather app",
+    "slug": "react-native-based-weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "react-native-based-weather-app",
+    "githubUrl": "https://github.com/angyeongeun/React-Native-Toy-Project.git"
   }
 }
